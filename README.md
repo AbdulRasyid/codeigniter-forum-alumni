@@ -14,5 +14,4 @@ How to use :
 
 Here some screenshot
 
-![]({{site.baseurl}}/http://s31.postimg.org/a5cvfiohn/image.png)
-
+<a href='http://postimg.org/image/5w85dcl87/' target='_blank'><img src='http://s31.postimg.org/5w85dcl87/image.jpg' border='0' alt="1" /></a>
