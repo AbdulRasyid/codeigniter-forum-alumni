@@ -15,3 +15,7 @@ How to use :
 Here some screenshot
 
 <a href='http://postimg.org/image/5w85dcl87/' target='_blank'><img src='http://s31.postimg.org/5w85dcl87/image.jpg' border='0' alt="1" /></a>
+
+<a href='http://postimg.org/image/asmt20vw7/' target='_blank'><img src='http://s31.postimg.org/asmt20vw7/image.jpg' border='0' alt="3" /></a>
+
+<a href='http://postimg.org/image/pfj65y54n/' target='_blank'><img src='http://s31.postimg.org/pfj65y54n/image.jpg' border='0' alt="4" /></a>
