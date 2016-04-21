@@ -14,5 +14,5 @@ How to use :
 
 Here some screenshot
 
-![]({{site.baseurl}}/http://postimg.org/image/5w85dcl87/)
+![]({{site.baseurl}}/http://s31.postimg.org/a5cvfiohn/image.png)
 
